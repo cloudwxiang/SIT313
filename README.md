@@ -28,4 +28,5 @@ successfully log in or registeration. There are three buttons in this interface:
 I also added the return button on image switch and list view, respectively. The return button is returned to the selection 
 screen.
 
-
+Here is my Github web site https://github.com/cloudwxiang/SIT313
+Here is my video web site https://youtu.be/4KJQ_vPoD5o
