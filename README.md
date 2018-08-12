@@ -16,7 +16,7 @@ interface which is a function that can be converted by clicking on it.
 However, the functions are not complete yet. For example, the app cannot store user names and passwords. This will cause user 
 to have to re-register each time to log in. In addition, user name, password and mailbox in the login and registration have no 
 review function. Which means the username, password, and mailbox can be null or arbitrary characters.
-
+Here is my week 4 video https://youtu.be/ufdj45DyJPY
 
 
 Week 5
@@ -29,4 +29,4 @@ I also added the return button on image switch and list view, respectively. The 
 screen.
 
 Here is my Github web site https://github.com/cloudwxiang/SIT313
-Here is my video web site https://youtu.be/4KJQ_vPoD5o
+Here is my video web site Week 5 https://youtu.be/fp_ijmpkxbs
